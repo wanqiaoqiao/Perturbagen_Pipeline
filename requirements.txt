@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy<2
+requests
+beautifulsoup4
+lxml
+openpyxl
+tqdm
+pyyaml
+chembl_webresource_client
+rdkit-pypi
