@@ -1,0 +1,38 @@
+run_name: iPSC
+
+pathways:
+  Wnt:
+    genes: [GSK3B, GSK3A, TNKS, TNKS2, PORCN, CTNNB1]
+    keywords: [Wnt, beta-catenin, GSK3, tankyrase, porcupine]
+
+  TGFb_Activin_Nodal:
+    genes: [TGFBR1, TGFBR2, ACVR1B, ACVR1C, ACVR2A, ACVR2B, SMAD2, SMAD3]
+    keywords: [TGF-beta, Activin, Nodal, ALK5, SMAD]
+
+  BMP:
+    genes: [BMPR1A, BMPR1B, BMPR2, ACVR1, SMAD1, SMAD5, SMAD9]
+    keywords: [BMP, BMPR, SMAD1, SMAD5]
+
+  FGF_MAPK:
+    genes: [FGFR1, FGFR2, FGFR3, FGFR4, MAP2K1, MAP2K2, MAPK1, MAPK3]
+    keywords: [FGF, FGFR, MEK, ERK, MAPK]
+
+  Hedgehog:
+    genes: [SMO, PTCH1, GLI1, GLI2]
+    keywords: [Hedgehog, SHH, SMO, GLI]
+
+  Notch:
+    genes: [NOTCH1, NOTCH2, NOTCH3, NOTCH4, ADAM10, PSEN1]
+    keywords: [Notch, gamma secretase]
+
+  Retinoic_Acid:
+    genes: [RARA, RARB, RARG, RXRA, RXRB, RXRG, ALDH1A2]
+    keywords: [retinoic acid, RAR, RXR]
+
+  JAK_STAT:
+    genes: [JAK1, JAK2, JAK3, TYK2, STAT3, STAT5A, STAT5B]
+    keywords: [JAK, STAT]
+
+  Epigenetic:
+    genes: [HDAC1, HDAC2, HDAC3, DNMT1, DNMT3A, DNMT3B, EZH2, BRD4]
+    keywords: [HDAC, DNMT, EZH2, BET, BRD4]
