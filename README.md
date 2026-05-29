@@ -1,5 +1,5 @@
 
-# Perturbagen Pipeline
+# Generate a list of Perturbagen
 
 Build a target-aware perturbagen library from LINCS/CMap, ChEMBL, IUPHAR/GtoPdb, and vendor libraries.
 
