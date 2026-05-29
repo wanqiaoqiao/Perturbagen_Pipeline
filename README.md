@@ -1,7 +1,7 @@
 
 # Generate a list of Perturbagen
 
-Build a target-aware perturbagen library from LINCS/CMap, ChEMBL, IUPHAR/GtoPdb, and vendor libraries.
+Build a target-aware perturbagen library from LINCS/CMap, ChEMBL, IUPHAR/GtoPdb, and vendor libraries. The recommended perturbagens will be tested in differentiation tests, assayed using scRNA-seq with multiplexing barcoding. The data will be used in ipsc_protocol_preditor to estimate which differentiation treatments will push iPSC cells toward a desired target state.
 
 The main input is `config/targets.yml`. To retarget the library from one differentiation context to another, edit that file and rerun the pipeline.
 
