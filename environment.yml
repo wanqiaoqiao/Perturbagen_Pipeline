@@ -1,0 +1,24 @@
+name: scanpy-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scanpy=1.11.5
+  - scvi-tools=1.4.2
+  - ipykernel
+  - jupyterlab
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - anndata
+  - h5py
+  - leidenalg
+  - python-igraph
+  - openpyxl
+  - pyyaml
+  - tqdm
+  - requests
+  - beautifulsoup4
+  - lxml
